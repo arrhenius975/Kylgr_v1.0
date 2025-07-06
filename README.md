@@ -133,7 +133,7 @@ pip install pynput
 
 ### Code Structure
 - **Modular design** for easy feature addition
-- **Error handling** for robust operation
+- **Error handling** for secure and debugging friendly operation
 - **Cross-platform compatibility** considerations
 - **Clean code practices** for maintainability
 
