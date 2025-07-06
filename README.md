@@ -9,7 +9,7 @@ A simple, lightweight keylogger written in Python with both Linux and Windows ve
 - Respect privacy laws and regulations in your jurisdiction
 - The authors are not responsible for misuse of this software
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Kylgr/
@@ -20,7 +20,7 @@ Kylgr/
 └── README.md          # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -37,7 +37,7 @@ python kylgr/keylgr.py
 python kylgr/winkylgr.py
 ```
 
-## 📋 Features
+## Features
 
 ### Current Features
 - **Cross-platform support** (Linux & Windows)
@@ -59,7 +59,7 @@ python kylgr/winkylgr.py
 - Platform detection warnings
 - Enhanced stealth options (optional)
 
-## 📊 Log Format
+## Log Format
 
 ```
 2024-01-15 14:30:25 - a
@@ -68,7 +68,7 @@ python kylgr/winkylgr.py
 2024-01-15 14:30:28 - Key.enter
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Log Directory
 - **Linux**: `./logs/` in current directory
@@ -80,7 +80,7 @@ Uncomment the stealth section in either file for:
 - Disguised file names
 - Reduced console output
 
-## 🛠️ Dependencies
+## Dependencies
 
 ```
 pynput>=1.7.6
@@ -92,7 +92,7 @@ pip install pynput
 ```
 
 
-## 🔒 Security Considerations
+## Security Considerations
 
 ### For Users
 - Always run with appropriate permissions
@@ -106,7 +106,7 @@ pip install pynput
 - Consider implementing rate limiting
 - Add data retention policies
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -129,7 +129,7 @@ pip install pynput
 - Ensure sufficient disk space
 - Verify Python has file creation rights
 
-## 📝 Development Notes
+## Development Notes
 
 ### Code Structure
 - **Modular design** for easy feature addition
@@ -143,7 +143,7 @@ pip install pynput
 - Verify Unicode character handling
 - Test with different keyboard layouts
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
